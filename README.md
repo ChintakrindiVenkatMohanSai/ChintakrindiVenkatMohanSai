@@ -10,7 +10,15 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,php,bootstrap,opencv,figma,tensorflow,c,java" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,django,mysql,mongodb" width="70%"/>
+</p>
+
+---
+
+## ✅ Currently Learned
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" width="70%"/>
 </p>
 
 ---
@@ -56,6 +64,3 @@
     <img src="https://img.shields.io/badge/📚_Learning_Projects-Practice-00ffab?style=for-the-badge&logo=bookstack" />
   </a>
 </p>
-
----
-
