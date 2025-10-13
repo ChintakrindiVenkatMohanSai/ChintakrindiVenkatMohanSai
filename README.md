@@ -2,8 +2,9 @@
 <h3 align="center">An enthusiastic student exploring Machine Learning, Computer Vision & Web Development 🚀</h3>
 
 <p align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.uuPvXNnlckEFe14kiG9CygHaFj?pid=Api&P=0&h=180" alt="Coding" width="200" style="border-radius:15px;"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.IBoPzgI7K2WQprGKT91PFgHaEq?pid=Api&P=0&h=180" alt="Coding Animation" width="200" style="border-radius:15px;"/>
 </p>
+
 
 ---
 
