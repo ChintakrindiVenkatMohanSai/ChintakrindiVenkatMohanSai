@@ -1,78 +1,61 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00d4ff;">Chintakrindi Venkat Mohan Sai</span></h1>
-<h3 align="center">An enthusiastic student exploring Machine Learning, Computer Vision & Web Development 🚀</h3>
+<h3 align="center">🚀 Passionate Student Developer | Learning ML, Web Development & Open Source</h3>
 
 <p align="center">
   <img src="https://tse3.mm.bing.net/th/id/OIP.IBoPzgI7K2WQprGKT91PFgHaEq?pid=Api&P=0&h=180" alt="Coding Animation" width="200" style="border-radius:15px;"/>
 </p>
 
-
 ---
 
-### 🔭 About Me
-- 💡 Working on **Machine Learning-based Ensemble Model for Quality Estimation of Diabetic Retinopathy Images**  
-- 🎓 Completed certifications in **Python** and **Web Development**  
-- 📫 Reach me at **[mohansaichintakrindi@gmail.com](mailto:mohansaichintakrindi@gmail.com)**  
+## 📚 Currently Learning
 
----
-
-### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/chintakrindi-venkata-moahan-sai-b2a70b252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohansaichintakrindi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,php,bootstrap,opencv,figma,tensorflow,c,java" width="70%"/>
 </p>
 
 ---
 
-### 🛠️ Skills & Tools  
+## 🎯 My Learning Journey
+
+### 🌱 **Active Learning Paths:**
+- **Machine Learning & AI**
+- **Full Stack Web Development**
+- **Computer Vision**
+- **Open Source Contribution**
+
+### 📊 **Learning Progress:**
+| Area | Status | Focus |
+|------|--------|-------|
+| **Python Programming** | ✅ Solid Foundation | ML & Data Science |
+| **Web Development** | 🚧 In Progress | Frontend & Backend |
+| **Machine Learning** | 🚧 Building Projects | TensorFlow, OpenCV |
+| **Open Source** | 🌟 Getting Started | First Contributions |
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,php,bootstrap,angular,opencv,figma,photoshop,matlab,django,tensorflow,sklearn,c" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chintakrindivenkatmohansai&show_icons=true&theme=tokyonight&hide_title=true" height="180em"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chintakrindivenkatmohansai&show_icons=true&theme=tokyonight" height="180em"/>
-</p>
+## 💡 Projects I'm Building
 
----
-
-### 🏆 Key Projects & Contributions  
 <p align="center">
   <a href="https://github.com/chintakrindivenkatmohansai/DR-Quality-Estimator" target="_blank">
-    <img src="https://img.shields.io/badge/DR%20Quality%20Estimator-Project-00d4ff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/👨‍💻_DR_Quality_Estimator-ML_Project-00d4ff?style=for-the-badge&logo=github" />
   </a>
+  <br/>
   <a href="https://github.com/chintakrindivenkatmohansai/Web-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Portfolio-Project-ff6f61?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Web_Portfolio-Web_Dev-ff6f61?style=for-the-badge&logo=react" />
   </a>
+  <br/>
   <a href="https://github.com/chintakrindivenkatmohansai/ML-Certifications" target="_blank">
-    <img src="https://img.shields.io/badge/ML%20Certifications-Learning-00ffab?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📚_Learning_Projects-Practice-00ffab?style=for-the-badge&logo=bookstack" />
   </a>
 </p>
 
 ---
 
-### 📈 Activity & Achievements  
-<p align="center">
-  <a href="https://github.com/chintakrindivenkatmohansai">
-    <img src="https://img.shields.io/badge/GitHub-Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/chintakrindivenkatmohansai?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Active-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chintakrindi-venkata-moahan-sai-b2a70b252/">
-    <img src="https://img.shields.io/badge/Certificates-ML_Web-ff6f61?style=for-the-badge&logo=certificate&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintakrindivenkatmohansai&bg_color=0f2027&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">⚡ "Learning. Building. Innovating." ⚡</h3>
