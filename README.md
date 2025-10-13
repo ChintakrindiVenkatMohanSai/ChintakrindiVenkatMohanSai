@@ -2,14 +2,15 @@
 <h3 align="center">An enthusiastic student exploring Machine Learning, Computer Vision & Web Development 🚀</h3>
 
 <p align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.uuPvXNnlckEFe14kiG9CygHaFj?pid=Api&P=0&h=180" alt="Coding" width="400"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.uuPvXNnlckEFe14kiG9CygHaFj?pid=Api&P=0&h=180" alt="Coding" width="200" style="border-radius:15px;"/>
 </p>
 
 ---
 
 ### 🔭 About Me
 - 💡 Working on **Machine Learning-based Ensemble Model for Quality Estimation of Diabetic Retinopathy Images**  
-- 📫 Reach me at **mohansaichintakrindi@gmail.com**  
+- 🎓 Completed certifications in **Python** and **Web Development**  
+- 📫 Reach me at **[mohansaichintakrindi@gmail.com](mailto:mohansaichintakrindi@gmail.com)**  
 
 ---
 
@@ -25,9 +26,9 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,php,bootstrap,angular,opencv,figma,photoshop,matlab,django,tensorflow,sklearn,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,php,bootstrap,angular,opencv,figma,photoshop,matlab,django,tensorflow,sklearn,c" width="50%"/>
 </p>
 
 ---
@@ -35,14 +36,36 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chintakrindivenkatmohansai&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chintakrindivenkatmohansai&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Activity  
+### 🏆 Key Projects & Contributions  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chintakrindivenkatmohansai&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+  <a href="https://github.com/chintakrindivenkatmohansai/DR-Quality-Estimator" target="_blank">
+    <img src="https://img.shields.io/badge/DR%20Quality%20Estimator-Project-00d4ff?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/chintakrindivenkatmohansai/Web-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Portfolio-Project-ff6f61?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/chintakrindivenkatmohansai/ML-Certifications" target="_blank">
+    <img src="https://img.shields.io/badge/ML%20Certifications-Learning-00ffab?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 📈 Activity & Achievements  
+<p align="center">
+  <a href="https://github.com/chintakrindivenkatmohansai">
+    <img src="https://img.shields.io/badge/GitHub-Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/chintakrindivenkatmohansai?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Active-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chintakrindi-venkata-moahan-sai-b2a70b252/">
+    <img src="https://img.shields.io/badge/Certificates-ML_Web-ff6f61?style=for-the-badge&logo=certificate&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
