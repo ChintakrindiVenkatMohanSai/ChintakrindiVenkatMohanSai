@@ -19,7 +19,7 @@
 ## ✅ Currently Learned
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,bootstrap" width="70%"/>
 </p>
 
 ---
