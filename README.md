@@ -19,7 +19,7 @@
 ## ✅ Currently Learned
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,machine learning,cybersecurity,html,css,js,bootstrap,jquery" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=python,machine learning,,html,css,js,bootstrap,jquery" width="70%"/>
 </p>
 
 ---
